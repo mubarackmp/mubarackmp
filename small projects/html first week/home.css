@@ -1,0 +1,58 @@
+.parent{
+    /* background-color: navy; */
+    height: 800px;
+    display: flex;
+    
+}
+.head{
+    position: absolute;
+    align-content: center;
+    top: 15px;
+    height: 85px;
+    width:1880px ;
+
+
+    text-align: center;
+    background-color: yellow;
+
+}
+.middle{
+    /* background-color: violet; */
+    border-left: 4px solid green;
+    position: absolute;
+    left: 250px;
+    top: 125px;
+    
+    border-left-style: inset;
+    padding-left: 20px;
+    
+
+}
+p{
+    font-size: large;
+}
+.bottom{
+    position: absolute;
+    /* background-color: blanchedalmond; */
+    left: 850px;
+    top: 875px;
+}
+.left{
+    position: absolute;
+    /* background-color:cadetblue; */
+    left: 50px;
+    top: 125px;
+    text-align: center;
+}
+.right{
+    /* background-color: maroon; */
+    border: 3px solid green;
+    position: absolute;
+    left: 1650px;
+    top: 125px;
+    text-align: center;
+    border-style: dotted;
+    padding:15px;
+    
+}
+

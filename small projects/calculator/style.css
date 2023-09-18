@@ -1,0 +1,18 @@
+.cal{
+    max-width: 400px;
+    height:600px;
+    background-color: maroon;
+    
+
+}
+.out{
+    background-color: black;
+    max-width: 100%;
+
+
+    height: 160px;
+}
+.buttons{
+    max-height: 70%;
+    background-color: mediumaquamarine;
+}
